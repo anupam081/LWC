@@ -5,6 +5,9 @@
         "paths": {
             "c/modalDialogLwc": [
                 "modalDialogLwc/modalDialogLwc.js"
+            ],
+            "c/dataTableLwc": [
+                "dataTableLwc/dataTableLwc.js"
             ]
         }
     },
