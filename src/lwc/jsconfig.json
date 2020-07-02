@@ -3,11 +3,17 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
+            "c/dataTableLwc": [
+                "dataTableLwc/dataTableLwc.js"
+            ],
+            "c/learnLWC": [
+                "learnLWC/learnLWC.js"
+            ],
             "c/modalDialogLwc": [
                 "modalDialogLwc/modalDialogLwc.js"
             ],
-            "c/dataTableLwc": [
-                "dataTableLwc/dataTableLwc.js"
+            "c/lwMessageService": [
+                "lwMessageService/lwMessageService.js"
             ]
         }
     },

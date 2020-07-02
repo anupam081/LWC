@@ -1,0 +1,5 @@
+<aura:component>
+    <lightning:button onclick="{! c.handleClick }"/>
+    <lightning:messageChannel type="SampleMessageChannel__c"
+        aura:id="sampleMessageChannel"/>
+</aura:component>
